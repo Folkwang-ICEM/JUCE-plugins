@@ -1,0 +1,3 @@
+[submodule "FFTVisualiser"]
+	path = FFTVisualiser
+	url = https://github.com/JespervonBorstel/FFTVisualiser/
